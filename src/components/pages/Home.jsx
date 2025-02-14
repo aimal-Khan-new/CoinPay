@@ -34,10 +34,10 @@ function Home() {
                             <div data-aos="fade-right" data-aos-duration="2500" className=" md:px-10 lg:px-10"><Button text={'Get started'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                         </div>
                     <div data-aos="fade-left" data-aos-duration="1500" className="bg-gradient-to-t from-blue-400 via-purple-200 to-transparent flex flex-col items-center justify-center rounded-xl lg:w-[50vw]">
-                        <div className=""> <img className='w-72 md:w-80' src="src\assets\images\ewCNNnQSVMa0dhUvxDh3Imtc3l8.avif" alt="" /></div>
+                        <div className=""> <img className='w-72 md:w-80' src="https://framerusercontent.com/images/ewCNNnQSVMa0dhUvxDh3Imtc3l8.png?scale-down-to=1024" alt="" /></div>
                         <div className="absolute flex flex-col space-y-80 -translate-y-10 items-center justify-center">
-                            <div className="flex space-x-52"><img className='h-40' src="src\assets\images\aLYEt7UekBqgEF6eR31JQlG3Rjw.avif" alt="" /><img className='h-40' src="src\assets\images\lqEg2oZro4LTrDpI7Ml1JVCEM4.avif" alt="" /></div>
-                            <div className="-translate-x-52"><img className='h-40' src="src\assets\images\95w1yJEV6pOeoJhT3s7HcwR0SE.avif" alt="" /></div>
+                            <div className="flex space-x-52"><img className='h-40' src="https://framerusercontent.com/images/lqEg2oZro4LTrDpI7Ml1JVCEM4.png?scale-down-to=512" alt="" /><img className='h-40' src="https://framerusercontent.com/images/aLYEt7UekBqgEF6eR31JQlG3Rjw.png?scale-down-to=512" alt="" /></div>
+                            <div className="-translate-x-52"><img className='h-40' src="https://framerusercontent.com/images/mVXCHRyTzuLMG8avaAeYeu88XVw.png?scale-down-to=512" alt="" /></div>
                         </div>
                     </div>
                 </div>
