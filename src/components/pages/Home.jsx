@@ -25,7 +25,7 @@ function Home() {
     return (
         <>
 
-            <section className='overflow-hidden'>
+            <section className='overflow-hidden spay5'>
                 <div className="flex flex-col space-y-20 lg:flex-row lg:space-y-0 lg:items-start lg:justify-between lg:p-16">
                 <div className=" lg:-translate-x-10 px-10 flex flex-col items-start justify-center gap-5 mt-16 lg:items-start lg:space-y-5 ">
                             <div data-aos="fade-right" data-aos-duration="1500" className="px-0 md:px-10 lg:px-10"><h1 className='text-5xl text-start font-semibold sm:text-5xl md:text-6xl text-gray-700 lg:text-6xl lg:text-start'>Effortless payroll in Crypto</h1>
@@ -36,7 +36,7 @@ function Home() {
                     <div data-aos="fade-left" data-aos-duration="1500" className="bg-gradient-to-t from-blue-400 via-purple-200 to-transparent flex flex-col items-center justify-center rounded-xl lg:w-[50vw]">
                         <div className=""> <img className='w-72 md:w-80' src="https://framerusercontent.com/images/ewCNNnQSVMa0dhUvxDh3Imtc3l8.png?scale-down-to=1024" alt="" /></div>
                         <div className="absolute flex flex-col space-y-80 -translate-y-10 items-center justify-center">
-                            <div className="flex space-x-52"><img className='h-40' src="https://framerusercontent.com/images/lqEg2oZro4LTrDpI7Ml1JVCEM4.png?scale-down-to=512" alt="" /><img className='h-40' src="https://framerusercontent.com/images/aLYEt7UekBqgEF6eR31JQlG3Rjw.png?scale-down-to=512" alt="" /></div>
+                            <div className="flex space-x-52"><img className='h-32 mt-16 sm:mt-0 sm:h-40' src="https://framerusercontent.com/images/lqEg2oZro4LTrDpI7Ml1JVCEM4.png?scale-down-to=512" alt="" /><img className='h-40' src="https://framerusercontent.com/images/aLYEt7UekBqgEF6eR31JQlG3Rjw.png?scale-down-to=512" alt="" /></div>
                             <div className="-translate-x-52"><img className='h-40' src="https://framerusercontent.com/images/mVXCHRyTzuLMG8avaAeYeu88XVw.png?scale-down-to=512" alt="" /></div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@ function Home() {
                         <div className=" lg:-translate-x-10 px-10 flex flex-col items-start justify-center gap-5 mt-16 lg:items-start lg:space-y-10 ">
                             <div data-aos="fade-right" data-aos-duration="1500" className="px-0 md:px-0 lg:px-10"><h1 className='text-5xl text-start font-semibold sm:text-5xl md:text-6xl text-gray-700 lg:text-6xl lg:text-start'>Intuitive Dashboard</h1>
                             </div>
-                            <div data-aos="fade-right" data-aos-duration="2000" className="px-0 text-center sm:px-36 sm:-translate-x-36 md:px-0 md:-translate-x-36 lg:-translate-x-0 lg:px-10 lg:text-start "><p className='text-lg text-gray-500 font-semibold lg:text-base text-start'>Navigate and manage payroll with ease. Our dashboard simplifies processes and provides insights at a glance.</p></div>
+                            <div data-aos="fade-right" data-aos-duration="2000" className="px-0 text-center sm:px-0 sm:-translate-x-36 md:px-0 md:-translate-x-36 lg:-translate-x-0 lg:px-10 lg:text-start "><p className='text-lg text-gray-500 font-semibold lg:text-base text-start'>Navigate and manage payroll with ease. Our dashboard simplifies processes and provides insights at a glance.</p></div>
                             <div data-aos="fade-right" data-aos-duration="2500" className="lg:px-10"><Button text={'Contact Us'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                         </div>
                         <div data-aos="fade-left" data-aos-duration="2000" className=""><img className='lg:w-[90%]' src="https://framerusercontent.com/images/PPNoRsmfDmzbb8EcPbqGmenSYk.png?scale-down-to=1024" alt="" /></div>
@@ -98,7 +98,7 @@ function Home() {
                 <section>
                     <div data-aos="fade-up" data-aos-duration="2000" className="flex flex-col items-center justify-center gap-5 p-5 ">
                         <span className='bg-[#EBF1FF] text-slate-700 font-medium uppercase border-[1px] border-gray-200 rounded-full py-1 px-4 text-sm'>INNOVATE</span>
-                        <div className="px-20 lg:px-60"><h1 className='text-4xl text-center font-semibold sm:text-5xl md:text-6xl text-blue-600 lg:text-7xl'>Unlock the Future of Payroll</h1></div>
+                        <div className="px-20 lg:px-60"><h1 className='text-3xl text-center font-semibold sm:text-5xl md:text-6xl text-blue-600 lg:text-7xl'>Unlock the Future of Payroll</h1></div>
                     </div>
 
                     <div className="p-10 flex flex-col space-y-5">
@@ -112,7 +112,7 @@ function Home() {
                             </div>
                             <div data-aos="fade-left" data-aos-duration="2500" className="bg-[#4050FF] rounded-2xl text-center lg:py-20">
                                 <div className="flex flex-col items-center justify-center gap-5 p-5 ">
-                                    <div className="px-24 lg:px-0 md:px-24 "><h1 className='text-4xl text-center font-bold sm:text-5xl md:text-6xl text-white lg:text-5xl'>Your Pay, Your Say</h1></div>
+                                    <div className="px-0 lg:px-0 md:px-24 "><h1 className='text-4xl text-center font-bold sm:text-5xl md:text-6xl text-white lg:text-5xl'>Your Pay, Your Say</h1></div>
                                     <div className="px-10 md:px-28 lg:px-10"><p className='text-white text-base font-normal lg:font-semibold'>Employees can ‘dictate’ how they get paid in crypto or traditional currency, the choice is theirs.</p></div>
                                     <img className='w-60' src="https://framerusercontent.com/images/ox8Ie7rz59fqrp7PwINUWhjqCyc.png?scale-down-to=512" alt="" />
                                 </div>
