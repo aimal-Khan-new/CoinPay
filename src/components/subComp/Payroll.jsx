@@ -13,10 +13,10 @@ function Payroll() {
                 <div className="  "><Button text={'Join Waitlist'} background={'#2763EB'} paddingX={'100'} paddingY={'50'} /></div>
                 </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration='2000' data-aos-delay='100' className=""><img className='w-96 lg:w-80' src="src\assets\images\X3uOVnyfEjZFh9f0rV1LUqdG9fk.avif" alt="" /></div>
+            <div data-aos="fade-up" data-aos-duration='2000' data-aos-delay='100' className=""><img className='w-96 lg:w-80' src="https://framerusercontent.com/images/X3uOVnyfEjZFh9f0rV1LUqdG9fk.png" alt="" /></div>
             <div className="absolute flex justify-between items-center space-x-[50vw]  ">
-            <div className="flex flex-col space-y-72"><img className='h-40' src="src\assets\images\aLYEt7UekBqgEF6eR31JQlG3Rjw.avif" alt="" /><img className='h-40' src="src\assets\images\lqEg2oZro4LTrDpI7Ml1JVCEM4.avif" alt="" /></div>
-            <div className="flex flex-col space-y-72"><img className='h-40' src="src\assets\images\mVXCHRyTzuLMG8avaAeYeu88XVw.avif" alt="" /><img className='h-40' src="src\assets\images\95w1yJEV6pOeoJhT3s7HcwR0SE.avif" alt="" /></div>
+            <div className="flex flex-col space-y-72"><img className='h-40' src="https://framerusercontent.com/images/aLYEt7UekBqgEF6eR31JQlG3Rjw.png?scale-down-to=512" alt="" /><img className='h-40' src="https://framerusercontent.com/images/mVXCHRyTzuLMG8avaAeYeu88XVw.png?scale-down-to=512" alt="" /></div>
+            <div className="flex flex-col space-y-72"><img className='h-40' src="https://framerusercontent.com/images/GAroemKRPWWEegVfrXKzA7t2qU.png?scale-down-to=1024" alt="" /><img className='h-40' src="https://framerusercontent.com/images/95w1yJEV6pOeoJhT3s7HcwR0SE.png?scale-down-to=512" alt="" /></div>
         </div>
         </section>
         

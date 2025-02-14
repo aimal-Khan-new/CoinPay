@@ -24,10 +24,10 @@ function Features() {
                         <div data-aos="fade-right" data-aos-duration="2500" className="lg:px-16"><Button text={'Join waitlist'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                     </div>
                     <div data-aos="fade-left" data-aos-duration="1500" className="bg-gradient-to-t from-blue-400 via-purple-200 to-transparent flex flex-col items-center justify-center rounded-xl lg:w-[50vw]">
-                        <div className=""> <img className='w-72 md:w-80' src="src\assets\images\faetureimgs\ewCNNnQSVMa0dhUvxDh3Imtc3l8.avif" alt="" /></div>
+                        <div className=""> <img className='w-72 md:w-80' src="https://framerusercontent.com/images/iG04pliWj2lmBe1dgV5sVnXPJE.png?scale-down-to=1024" alt="" /></div>
                         <div className="absolute flex flex-col space-y-80 -translate-y-10 items-center justify-center">
-                            <div className="flex space-x-52"><img className='h-40 -translate-x-40' src="src\assets\images\faetureimgs\8tvdHB3Y6Yok3TCKyyMtL0pF5pQ.avif" alt="" /></div>
-                            <div className="translate-x-48"><img className='h-40' src="src\assets\images\faetureimgs\jjnMhCSg2IGRHNkqnfmkun49sOo.avif" alt="" /></div>
+                            <div className="flex space-x-52"><img className='h-40 -translate-x-40' src="https://framerusercontent.com/images/8tvdHB3Y6Yok3TCKyyMtL0pF5pQ.png?scale-down-to=512" alt="" /></div>
+                            <div className="translate-x-48"><img className='h-40' src="https://framerusercontent.com/images/jjnMhCSg2IGRHNkqnfmkun49sOo.png?scale-down-to=512" alt="" /></div>
                         </div>
                     </div>
                 </div>
@@ -40,10 +40,10 @@ function Features() {
                         <div data-aos="fade-left" data-aos-duration="2500" className="lg:px-16"><Button text={'Join waitlist'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                     </div>
                     <div data-aos="fade-right" data-aos-duration="1500" className="bg-gradient-to-t from-blue-400 via-purple-200 to-transparent flex flex-col items-center justify-center rounded-xl lg:w-[50vw]">
-                        <div className=""> <img className='w-72 md:w-80' src="src\assets\images\faetureimgs\H6FetZhyCsK0OItcHYcLZ5I7yk.avif" alt="" /></div>
+                        <div className=""> <img className='w-72 md:w-80' src="https://framerusercontent.com/images/H6FetZhyCsK0OItcHYcLZ5I7yk.png?scale-down-to=1024" alt="" /></div>
                         <div className="absolute flex flex-col space-y-80 -translate-y-10 items-center justify-center">
-                            <div className="flex space-x-52"><img className='h-40 -translate-x-40' src="src\assets\images\faetureimgs\HOU7Onzq5CYJoAkO0aASWguzgo.avif" alt="" /></div>
-                            <div className="translate-x-48"><img className='h-40' src="src\assets\images\faetureimgs\95w1yJEV6pOeoJhT3s7HcwR0SE.avif" alt="" /></div>
+                            <div className="flex space-x-52"><img className='h-40 -translate-x-40' src="https://framerusercontent.com/images/HOU7Onzq5CYJoAkO0aASWguzgo.png?scale-down-to=512" alt="" /></div>
+                            <div className="translate-x-48"><img className='h-40' src="https://framerusercontent.com/images/95w1yJEV6pOeoJhT3s7HcwR0SE.png?scale-down-to=512" alt="" /></div>
                         </div>
                     </div>
                 </div>
@@ -56,10 +56,10 @@ function Features() {
                         <div data-aos="fade-right" data-aos-duration="2500" className="lg:px-16"><Button text={'Join waitlist'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                     </div>
                     <div data-aos="fade-left" data-aos-duration="1500" className="bg-gradient-to-t from-blue-400 via-purple-200 to-transparent flex flex-col items-center justify-center rounded-xl lg:w-[50vw]">
-                        <div className=""> <img className='w-72 md:w-80' src="src\assets\images\faetureimgs\ewCNNnQSVMa0dhUvxDh3Imtc3l8.avif" alt="" /></div>
+                        <div className=""> <img className='w-72 md:w-80' src="https://framerusercontent.com/images/ewCNNnQSVMa0dhUvxDh3Imtc3l8.png?scale-down-to=1024" alt="" /></div>
                         <div className="absolute flex flex-col space-y-80 -translate-y-10 items-center justify-center">
-                            <div className="flex space-x-52"><img className='h-40 -translate-x-40' src="src\assets\images\faetureimgs\HYsPbQD4gRWmnqWLoc47QJ2ezo.avif" alt="" /></div>
-                            <div className="translate-x-48"><img className='h-40' src="src\assets\images\faetureimgs\mVXCHRyTzuLMG8avaAeYeu88XVw.avif" alt="" /></div>
+                            <div className="flex space-x-52"><img className='h-40 -translate-x-40' src="https://framerusercontent.com/images/HYsPbQD4gRWmnqWLoc47QJ2ezo.png?scale-down-to=512" alt="" /></div>
+                            <div className="translate-x-48"><img className='h-40' src="https://framerusercontent.com/images/mVXCHRyTzuLMG8avaAeYeu88XVw.png?scale-down-to=512" alt="" /></div>
                         </div>
                     </div>
                 </div>

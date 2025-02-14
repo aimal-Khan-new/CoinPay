@@ -28,7 +28,7 @@ function Navbar() {
       >
         <div className="w-36">
           <img
-            src="src/assets/images/WqI3UYiTd2qMFxPSa0gRIFcv4U.avif"
+            src="https://framerusercontent.com/images/WqI3UYiTd2qMFxPSa0gRIFcv4U.png?scale-down-to=512"
             alt="Logo"
           />
         </div>

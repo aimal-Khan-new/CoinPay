@@ -70,7 +70,7 @@ function Home() {
                             <div data-aos="fade-right" data-aos-duration="2000" className="px-0 text-center sm:px-0 sm:-translate-x-36 md:px-10 md:-translate-x-40 lg:-translate-x-0 lg:px-10 lg:text-start "><p className='text-lg text-gray-500 font-semibold lg:text-base text-start'>Automate payments effortlessly with our intuitive system. Reduce manual tasks and focus on growth.</p></div>
                             <div data-aos="fade-right" data-aos-duration="2500" className=" md:px-10 lg:px-10"><Button text={'Explore Features'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                         </div>
-                        <div data-aos="fade-left" data-aos-duration="1500" className=""><img className='lg:w-[90%]' src="src\assets\images\avaRNJzRjnM9vG1OVwLKdMPNU0.avif" alt="" /></div>
+                        <div data-aos="fade-left" data-aos-duration="1500" className=""><img className='lg:w-[90%]' src="https://framerusercontent.com/images/avaRNJzRjnM9vG1OVwLKdMPNU0.png" alt="" /></div>
                     </div>
 
                     <div className="flex flex-col-reverse items-center lg:items-start lg:gap-10 lg:flex-row-reverse lg:mt-52">
@@ -80,7 +80,7 @@ function Home() {
                             <div data-aos="fade-left" data-aos-duration="2000" className="px-0 text-center sm:px-0 sm:-translate-x-36 md:px-10 md:-translate-x-40 lg:-translate-x-0 lg:px-10 lg:text-start "><p className='text-lg text-gray-500 font-semibold lg:text-base text-start'>Ensure timely and accurate payroll management, supported by a robust, user-friendly platform.</p></div>
                             <div data-aos="fade-left" data-aos-duration="2500" className=" md:px-10 lg:px-10"><Button text={'Get started'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                         </div>
-                        <div data-aos="fade-right" data-aos-duration="1500" className=""><img className='lg:w-[90%]' src="src\assets\images\3MUbL6L3K0VWwjEU0SADn1Jre64.avif" alt="" /></div>
+                        <div data-aos="fade-right" data-aos-duration="1500" className=""><img className='lg:w-[90%]' src="https://framerusercontent.com/images/3MUbL6L3K0VWwjEU0SADn1Jre64.png" /></div>
                     </div>
 
                     <div className="flex flex-col-reverse items-center lg:flex-row lg:mt-52 lg:items-start lg:gap-10">
@@ -90,7 +90,7 @@ function Home() {
                             <div data-aos="fade-right" data-aos-duration="2000" className="px-0 text-center sm:px-36 sm:-translate-x-36 md:px-0 md:-translate-x-36 lg:-translate-x-0 lg:px-10 lg:text-start "><p className='text-lg text-gray-500 font-semibold lg:text-base text-start'>Navigate and manage payroll with ease. Our dashboard simplifies processes and provides insights at a glance.</p></div>
                             <div data-aos="fade-right" data-aos-duration="2500" className="lg:px-10"><Button text={'Contact Us'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                         </div>
-                        <div data-aos="fade-left" data-aos-duration="2000" className=""><img className='lg:w-[90%]' src="src\assets\images\PPNoRsmfDmzbb8EcPbqGmenSYk.avif" alt="" /></div>
+                        <div data-aos="fade-left" data-aos-duration="2000" className=""><img className='lg:w-[90%]' src="https://framerusercontent.com/images/PPNoRsmfDmzbb8EcPbqGmenSYk.png?scale-down-to=1024" alt="" /></div>
                     </div>
 
                 </section>
@@ -107,14 +107,14 @@ function Home() {
                                 <div className="flex flex-col items-center justify-center gap-5 p-5 ">
                                     <div className="px-40 lg:px-0 md:px-60"><h1 className='text-4xl text-center font-bold sm:text-5xl md:text-6xl text-white lg:text-5xl'>Quick Integration</h1></div>
                                     <div className="px-10 md:px-28 lg:px-10"><p className='text-white text-base font-normal lg:font-semibold'>Seamlessly integrate with your current HR systems in just a few clicks. No downtime, no hassle.</p></div>
-                                    <img className='w-60' src="src\assets\images\8tvdHB3Y6Yok3TCKyyMtL0pF5pQ.avif" alt="" />
+                                    <img className='w-60' src="https://framerusercontent.com/images/8tvdHB3Y6Yok3TCKyyMtL0pF5pQ.png?scale-down-to=512" alt="" />
                                 </div>
                             </div>
                             <div data-aos="fade-left" data-aos-duration="2500" className="bg-[#4050FF] rounded-2xl text-center lg:py-20">
                                 <div className="flex flex-col items-center justify-center gap-5 p-5 ">
                                     <div className="px-24 lg:px-0 md:px-24 "><h1 className='text-4xl text-center font-bold sm:text-5xl md:text-6xl text-white lg:text-5xl'>Your Pay, Your Say</h1></div>
                                     <div className="px-10 md:px-28 lg:px-10"><p className='text-white text-base font-normal lg:font-semibold'>Employees can ‘dictate’ how they get paid in crypto or traditional currency, the choice is theirs.</p></div>
-                                    <img className='w-60' src="src\assets\images\ox8Ie7rz59fqrp7PwINUWhjqCyc.avif" alt="" />
+                                    <img className='w-60' src="https://framerusercontent.com/images/ox8Ie7rz59fqrp7PwINUWhjqCyc.png?scale-down-to=512" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -122,13 +122,13 @@ function Home() {
                             <div className="flex flex-col items-center justify-center gap-5 p-5 ">
                                 <div className="px-11 sm:px-0 lg:px-11 md:px-0"><h1 className='text-4xl text-center font-bold sm:text-5xl md:text-6xl text-white lg:text-5xl'>Efficiency and Performance</h1></div>
                                 <div className="px-10 md:px-28 lg:px-72"><p className='text-white text-lg font-normal'>Full power, always on. Keep your transactions running smoothly with optimal efficiency.</p></div>
-                                <img className='w-60' src="src\assets\images\0EY86FpFGUCJMbJ0GsZFcmgoDw.avif" alt="" />
+                                <img className='w-60' src="https://framerusercontent.com/images/0EY86FpFGUCJMbJ0GsZFcmgoDw.png?scale-down-to=512" alt="" />
                             </div>
                             <div className="hidden lg:flex top-[15vh] left-[45vw] absolute md:hidden ">
-                                <img className='w-16 left-[40vw] absolute' src="src\assets\images\0EY86FpFGUCJMbJ0GsZFcmgoDw.avif" alt="" />
-                                <img className='w-16 translate-y-44 translate-x-[30vw]' src="src\assets\images\0EY86FpFGUCJMbJ0GsZFcmgoDw.avif" alt="" />
-                                <img className='w-16 translate-y-44 -translate-x-[30vw]' src="src\assets\images\0EY86FpFGUCJMbJ0GsZFcmgoDw.avif" alt="" />
-                                <img className='w-16 -left-[40vw] absolute' src="src\assets\images\0EY86FpFGUCJMbJ0GsZFcmgoDw.avif" alt="" />
+                                <img className='w-16 left-[40vw] absolute' src="https://framerusercontent.com/images/0EY86FpFGUCJMbJ0GsZFcmgoDw.png?scale-down-to=512" alt="" />
+                                <img className='w-16 translate-y-44 translate-x-[30vw]' src="https://framerusercontent.com/images/0EY86FpFGUCJMbJ0GsZFcmgoDw.png?scale-down-to=512" alt="" />
+                                <img className='w-16 translate-y-44 -translate-x-[30vw]' src="https://framerusercontent.com/images/0EY86FpFGUCJMbJ0GsZFcmgoDw.png?scale-down-to=512" alt="" />
+                                <img className='w-16 -left-[40vw] absolute' src="https://framerusercontent.com/images/0EY86FpFGUCJMbJ0GsZFcmgoDw.png?scale-down-to=512" alt="" />
                             </div>
                         </div>
                     </div>
