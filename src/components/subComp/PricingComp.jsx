@@ -14,7 +14,7 @@ function PricingComp() {
                 <p className='text-lg text-center text-blue-800 font-semibold lg:text-base'>Start with any plan, it’s free and always will be.</p>
             </div>
             <div className="flex flex-col items-center justify-center space-y-10 lg:flex-row lg:w-full lg:space-y-0 gap-2 ">
-                <div data-aos="fade-up" data-aos-duration='2000' data-aos-delay='100' className="bg-white border-[1px] border-gray-300 rounded-lg p-10 h-[200px] w-[0px] flex flex-col items-start justify-between lg:w-[350px] aos-init aos-animate">
+                <div data-aos="fade-up" data-aos-duration='2000' data-aos-delay='100' className="bg-white border-[1px] border-gray-300 rounded-lg py-10 lg:px-10 px-20 h-[500px] w-[450px] flex flex-col items-start justify-between lg:w-[350px]">
                     <div className="border-b-[1px] border-gray-300 flex flex-col space-y-5">
                         <h1 className='text-4xl font-bold text-gray-700'>Essential</h1>
                         <p className='text-gray-500 font-medium text-lg lg:text-base'>Designed for large enterprises. Get advanced analytics, priority support, and full customization.</p><br />
@@ -25,9 +25,9 @@ function PricingComp() {
                             <li className='text-lg text-gray-500 font-medium'><span className='bg-blue-500 rounded-full'/>Sales volume up to $5k/mo</li>
                         </ul>
                     </div>
-                    <div className=" translate-x-10 lg:translate-x-0"><Button text={'Subscribe'} paddingX={'100'} paddingY={'50'} /></div>
+                    <div className="  "><Button text={'Subscribe'} paddingX={'100'} paddingY={'50'} /></div>
                 </div>
-                <div data-aos="fade-up" data-aos-duration='2000' data-aos-delay='100' className="bg-blue-600 border-[1px] border-gray-300 rounded-lg p-10 h-[500px] w-[450px] flex flex-col items-start justify-between lg:w-[350px]">
+                <div data-aos="fade-up" data-aos-duration='2000' data-aos-delay='100' className="bg-blue-600 border-[1px] border-gray-300 rounded-lg py-10 lg:px-10 px-20 h-[500px] w-[450px] flex flex-col items-start justify-between lg:w-[350px]">
                     <div className="border-b-[1px] border-gray-300 flex flex-col space-y-5">
                         <h1 className='text-4xl font-bold text-white'>Intermediate</h1>
                         <p className='text-white font-medium text-lg lg:text-base'>Best for growing companies, with multi-currency payroll options and customer support.</p><br />
@@ -39,9 +39,9 @@ function PricingComp() {
                             <li className='text-lg text-white font-medium'>Return customer rate more than 2,5%</li>
                         </ul>
                     </div>
-                    <div className=" translate-x-10 lg:translate-x-0"><Button text={'Subscribe'} paddingX={'100'} paddingY={'50'} background={'#FFFFFF'} color={'#2663EB'} /></div>
+                    <div className=" "><Button text={'Subscribe'} paddingX={'100'} paddingY={'50'} background={'#FFFFFF'} color={'#2663EB'} /></div>
                 </div>
-                <div data-aos="fade-up" data-aos-duration='2000'  data-aos-delay='100' className="bg-white border-[1px] border-gray-300 rounded-lg p-10 h-[500px] w-[450px] flex flex-col items-start justify-between lg:w-[350px]">
+                <div data-aos="fade-up" data-aos-duration='2000'  data-aos-delay='100' className="bg-white border-[1px] border-gray-300 rounded-lg py-10 lg:px-10 px-20 h-[500px] w-[450px] flex flex-col items-start justify-between lg:w-[350px]">
                     <div className="border-b-[1px] border-gray-300 flex flex-col space-y-5">
                         <h1 className='text-4xl font-bold text-gray-700'>Expert</h1>
                         <p className='text-gray-500 font-medium text-lg lg:text-base'>Designed for large enterprises. Get advanced analytics, priority support, and full customization.</p><br />
@@ -54,7 +54,7 @@ function PricingComp() {
                             <li className='text-lg text-gray-500 font-medium'><span className='bg-blue-500 rounded-full'/>24/7 Customer support</li>
                         </ul>
                     </div>
-                    <div className=" translate-x-10 lg:translate-x-0"><Button text={'Subscribe'} paddingX={'100'} paddingY={'50'} /></div>
+                    <div className=" "><Button text={'Subscribe'} paddingX={'100'} paddingY={'50'} /></div>
                 </div>
             </div>
         </div>

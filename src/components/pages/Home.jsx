@@ -56,6 +56,7 @@ function Home() {
                         New='40px'
                     />
                 </div>
+                
                 <br />
                 <section className='bg-[#EBF1FF] rounded-2xl py-[30vh]'>
                     <div data-aos="fade-up" data-aos-duration="2000" className="flex flex-col items-center justify-center gap-5 p-5 ">
@@ -101,7 +102,7 @@ function Home() {
                         <div className="px-20 lg:px-60"><h1 className='text-3xl text-center font-semibold sm:text-5xl md:text-6xl text-blue-600 lg:text-7xl'>Unlock the Future of Payroll</h1></div>
                     </div>
 
-                    <div className="p-10 flex flex-col space-y-5">
+                    <div className="sm:p-10 flex flex-col space-y-5">
                         <div className="space-y-5 flex flex-col lg:space-y-0 lg:flex-row lg:space-x-5  ">
                             <div data-aos="fade-right" data-aos-duration="2500" className="bg-blue-800 rounded-2xl text-center lg:py-20">
                                 <div className="flex flex-col items-center justify-center gap-5 p-5 ">
@@ -151,7 +152,7 @@ function Home() {
                     />
                 </div>
 
-                <div className="mt-40 p-10"><Faqs /></div>
+                <div className="mt-40 sm:px-20 "><Faqs /></div>
 
                 <div className=""><Payroll /></div>
 

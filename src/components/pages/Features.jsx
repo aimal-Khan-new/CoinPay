@@ -20,7 +20,7 @@ function Features() {
                     <div className="lg:-translate-x-10 flex flex-col items-center justify-center gap-5 mt-16 lg:items-start lg:space-y-10 ">
                         <div data-aos="fade-right" data-aos-duration="1500" className="px-20 md:px-28 lg:px-16"><h1 className='text-5xl text-center font-semibold sm:text-5xl md:text-6xl text-gray-700 lg:text-6xl lg:text-start'>Automated Payroll</h1>
                         </div>
-                        <div data-aos="fade-right" data-aos-duration="2000" className="px-24 text-center sm:px-28 md:px-56 lg:px-16 lg:text-start"><p className='text-lg text-gray-500 font-semibold lg:text-base'>Automatically process payroll in various cryptocurrencies. Fast, secure, and without the need for manual input.</p></div>
+                        <div data-aos="fade-right" data-aos-duration="2000" className="px-10 text-center sm:px-28 md:px-56 lg:px-16 lg:text-start"><p className='text-lg text-gray-500 font-semibold lg:text-base'>Automatically process payroll in various cryptocurrencies. Fast, secure, and without the need for manual input.</p></div>
                         <div data-aos="fade-right" data-aos-duration="2500" className="lg:px-16"><Button text={'Join waitlist'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                     </div>
                     <div data-aos="fade-left" data-aos-duration="1500" className="bg-gradient-to-t from-blue-400 via-purple-200 to-transparent flex flex-col items-center justify-center rounded-xl lg:w-[50vw]">
@@ -36,7 +36,7 @@ function Features() {
                     <div className="lg:-translate-x-10 flex flex-col items-center justify-center gap-5 mt-16 lg:items-start lg:space-y-10 ">
                         <div data-aos="fade-left" data-aos-duration="1500" className="px-20 md:px-28 lg:px-16"><h1 className='text-5xl text-center font-semibold sm:text-5xl md:text-6xl text-gray-700 lg:text-6xl lg:text-start'>Advanced Security</h1>
                         </div>
-                        <div data-aos="fade-left" data-aos-duration="2000" className="px-24 text-center sm:px-28 md:px-56 lg:px-16 lg:text-start"><p className='text-lg text-gray-500 font-semibold lg:text-base'>Keep your transactions safe with top-tier encryption and fraud prevention technology.</p></div>
+                        <div data-aos="fade-left" data-aos-duration="2000" className="px-10 text-center sm:px-28 md:px-56 lg:px-16 lg:text-start"><p className='text-lg text-gray-500 font-semibold lg:text-base'>Keep your transactions safe with top-tier encryption and fraud prevention technology.</p></div>
                         <div data-aos="fade-left" data-aos-duration="2500" className="lg:px-16"><Button text={'Join waitlist'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                     </div>
                     <div data-aos="fade-right" data-aos-duration="1500" className="bg-gradient-to-t from-blue-400 via-purple-200 to-transparent flex flex-col items-center justify-center rounded-xl lg:w-[50vw]">
@@ -52,7 +52,7 @@ function Features() {
                     <div className="lg:-translate-x-10 flex flex-col items-center justify-center gap-5 mt-16 lg:items-start lg:space-y-10 ">
                         <div data-aos="fade-right" data-aos-duration="1500" className="px-20 md:px-28 lg:px-16"><h1 className='text-5xl text-center font-semibold sm:text-5xl md:text-6xl text-gray-700 lg:text-6xl lg:text-start'>Multi-Currency Options</h1>
                         </div>
-                        <div data-aos="fade-right" data-aos-duration="2000" className="px-24 text-center sm:px-28 md:px-56 lg:px-16 lg:text-start"><p className='text-lg text-gray-500 font-semibold lg:text-base'>Flexible solutions in both crypto and traditional currency</p></div>
+                        <div data-aos="fade-right" data-aos-duration="2000" className="px-10 text-center sm:px-28 md:px-56 lg:px-16 lg:text-start"><p className='text-lg text-gray-500 font-semibold lg:text-base'>Flexible solutions in both crypto and traditional currency</p></div>
                         <div data-aos="fade-right" data-aos-duration="2500" className="lg:px-16"><Button text={'Join waitlist'} background={'#4050FE'} color={'white'} paddingX={'100'} /></div>
                     </div>
                     <div data-aos="fade-left" data-aos-duration="1500" className="bg-gradient-to-t from-blue-400 via-purple-200 to-transparent flex flex-col items-center justify-center rounded-xl lg:w-[50vw]">

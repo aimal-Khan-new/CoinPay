@@ -15,8 +15,8 @@ function Payroll() {
             </div>
             <div data-aos="fade-up" data-aos-duration='2000' data-aos-delay='100' className=""><img className='w-96 lg:w-80' src="https://framerusercontent.com/images/X3uOVnyfEjZFh9f0rV1LUqdG9fk.png" alt="" /></div>
             <div className="absolute flex justify-between items-center space-x-[50vw]  ">
-            <div className="flex flex-col space-y-72"><img className='h-40' src="https://framerusercontent.com/images/aLYEt7UekBqgEF6eR31JQlG3Rjw.png?scale-down-to=512" alt="" /><img className='h-40' src="https://framerusercontent.com/images/mVXCHRyTzuLMG8avaAeYeu88XVw.png?scale-down-to=512" alt="" /></div>
-            <div className="flex flex-col space-y-72"><img className='h-40' src="https://framerusercontent.com/images/GAroemKRPWWEegVfrXKzA7t2qU.png?scale-down-to=1024" alt="" /><img className='h-40' src="https://framerusercontent.com/images/95w1yJEV6pOeoJhT3s7HcwR0SE.png?scale-down-to=512" alt="" /></div>
+            <div className="lg:flex flex-col space-y-72 hidden"><img className='h-40' src="https://framerusercontent.com/images/aLYEt7UekBqgEF6eR31JQlG3Rjw.png?scale-down-to=512" alt="" /><img className='h-40' src="https://framerusercontent.com/images/mVXCHRyTzuLMG8avaAeYeu88XVw.png?scale-down-to=512" alt="" /></div>
+            <div className="lg:flex flex-col space-y-72 hidden"><img className='h-40' src="https://framerusercontent.com/images/GAroemKRPWWEegVfrXKzA7t2qU.png?scale-down-to=1024" alt="" /><img className='h-40' src="https://framerusercontent.com/images/95w1yJEV6pOeoJhT3s7HcwR0SE.png?scale-down-to=512" alt="" /></div>
         </div>
         </section>
         
