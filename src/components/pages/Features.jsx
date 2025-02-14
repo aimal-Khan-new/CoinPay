@@ -4,7 +4,7 @@ import Payroll from '../subComp/Payroll'
 function Features() {
     return (
         <section className='font'>
-            <div className='bg-gradient-to-tr from-blue-200 to-blue-400  absolute blur-3xl p-96 rounded-full opacity-50 -left-[40vw] -top-10 -z-50'></div>
+            <div className='bg-gradient-to-tr hidden sm:block from-blue-200 to-blue-400  absolute blur-3xl p-96 rounded-full opacity-50 -left-[40vw] -top-10 -z-50'></div>
             <div className='bg-gradient-to-tr from-blue-400 to-fuchsia-200  absolute blur-3xl p-96 rounded-full opacity-50 right-0 -top-[40vh] -z-50'></div>
             <div data-aos="fade-up" data-aos-duration='2000' data-aos-delay='100' className=" p-5 flex flex-col items-center justify-center space-y-20 mt-40">
                 <div className="flex flex-col items-center justify-center gap-10 ">
@@ -78,32 +78,32 @@ function Features() {
                 <div className="lg:flex lg:flex-wrap items-center justify-center lg:gap-5 space-y-10 lg:space-y-0">
                     <div data-aos-delay="1000" data-aos="fade-up" data-aos-duration="1500" className="bg-[#EBF1FF] p-10 rounded-2xl flex flex-col items-center justify-center space-y-4 sm:px-32 lg:px-5 lg:w-96  ">
                         <span className='bg-blue-600 rounded-full p-5 flex items-center justify-center'><img src="src\assets\images\icon\back-in-time.png" alt="" /></span>
-                        <h1 className='font-semibold text-2xl text-gray-800'>Automated Scheduling</h1>
+                        <h1 className='font-semibold text-xl sm:text-2xl text-gray-800'>Automated Scheduling</h1>
                         <p className='text-gray-700 text-center text-lg'>Set payments and let our system handle the rest.</p>
                     </div>
                     <div data-aos-delay="1000" data-aos="fade-up" data-aos-duration="1500" className="bg-[#EBF1FF] p-10 rounded-2xl flex flex-col items-center justify-center space-y-4 sm:px-32 lg:px-5 lg:w-96  ">
                         <span className='bg-blue-600 rounded-full p-5 flex items-center justify-center'><img src="src\assets\images\icon\dates.png" alt="" /></span>
-                        <h1 className='font-semibold text-2xl text-gray-800'>Performance Analytics</h1>
+                        <h1 className='font-semibold text-xl sm:text-2xl text-gray-800'>Performance Analytics</h1>
                         <p className='text-gray-700 text-center text-lg'>Track and optimize your payroll strategy with detailed insights.</p>
                     </div>
                     <div data-aos-delay="1000" data-aos="fade-up" data-aos-duration="1500" className="bg-[#EBF1FF] p-10 rounded-2xl flex flex-col items-center justify-center space-y-4 sm:px-32 lg:px-5 lg:w-96  ">
                         <span className='bg-blue-600 rounded-full p-5 flex items-center justify-center'><img src="src\assets\images\icon\money.png" alt="" /></span>
-                        <h1 className='font-semibold text-2xl text-gray-800'>Multi-Currency Options</h1>
+                        <h1 className='font-semibold text-xl sm:text-2xl text-gray-800'>Multi-Currency Options</h1>
                         <p className='text-gray-700 text-center text-lg'>Flexible solutions in both crypto and traditional currency</p>
                     </div>
                     <div data-aos-delay="1500" data-aos="fade-up" data-aos-duration="1500" className="bg-[#EBF1FF] p-10 rounded-2xl flex flex-col items-center justify-center space-y-4 sm:px-32 lg:px-5 lg:w-96  ">
                         <span className='bg-blue-600 rounded-full p-5 flex items-center justify-center'><img src="src\assets\images\icon\support.png" alt="" /></span>
-                        <h1 className='font-semibold text-2xl text-gray-800'>Employee Self-Service</h1>
+                        <h1 className='font-semibold text-xl sm:text-2xl text-gray-800'>Employee Self-Service</h1>
                         <p className='text-gray-700 text-center text-lg'>Empower your team to manage their payment preferences super easily.</p>
                     </div>
                     <div data-aos-delay="1500" data-aos="fade-up" data-aos-duration="1500" className="bg-[#EBF1FF] p-10 rounded-2xl flex flex-col items-center justify-center space-y-4 sm:px-32 lg:px-5 lg:w-96  ">
                         <span className='bg-blue-600 rounded-full p-5 flex items-center justify-center'><img src="src\assets\images\icon\recycle.png" alt="" /></span>
-                        <h1 className='font-semibold text-2xl text-gray-800'>Customizable Cycles</h1>
+                        <h1 className='font-semibold text-xl sm:text-2xl text-gray-800'>Customizable Cycles</h1>
                         <p className='text-gray-700 text-center text-lg'>Flexible payroll schedules to suit your business needs, weekly, or monthly.</p>
                     </div>
                     <div data-aos-delay="1500" data-aos="fade-up" data-aos-duration="1500" className="bg-[#EBF1FF] p-10 rounded-2xl flex flex-col items-center justify-center space-y-4 sm:px-32 lg:px-5 lg:w-96  ">
                         <span className='bg-blue-600 rounded-full p-5 flex items-center justify-center'><img src="src\assets\images\icon\speedometer.png" alt="" /></span>
-                        <h1 className='font-semibold text-2xl text-gray-800'>Real-Time Tracking</h1>
+                        <h1 className='font-semibold text-xl sm:text-2xl text-gray-800'>Real-Time Tracking</h1>
                         <p className='text-gray-700 text-center text-lg'>Monitor each transaction in real time, ensuring transparency and accuracy.</p>
                     </div>
                 </div>

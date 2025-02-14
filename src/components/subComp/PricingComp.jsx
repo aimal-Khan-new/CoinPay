@@ -5,8 +5,8 @@ function PricingComp() {
     return (
         <>
         <section className='font'>
-            <div className='bg-gradient-to-tr from-blue-200 to-blue-400  absolute blur-3xl p-96 rounded-full opacity-50 -left-[40vw] -top-10 -z-50'></div>
-            <div className='bg-gradient-to-tr from-blue-400 to-fuchsia-200  absolute blur-3xl p-96 rounded-full opacity-50 right-0 -top-[40vh] -z-50'></div>
+            <div className='bg-gradient-to-tr from-blue-200 to-blue-400 hidden sm:block  absolute blur-3xl p-96 rounded-full opacity-50 -left-[40vw] -top-10 -z-50'></div>
+            <div className='bg-gradient-to-tr from-blue-400 to-fuchsia-200 absolute blur-3xl p-96 rounded-full opacity-50 right-0 -top-[40vh] -z-50'></div>
         <div className=" p-5 flex flex-col items-center justify-center space-y-20 mt-40">
             <div data-aos="fade-up" data-aos-duration='2000' data-aos-delay='100' className="flex flex-col items-center justify-center gap-5 ">
                 <span className='bg-white text-blue-600 font-medium uppercase border-[1px] border-gray-200 rounded-full py-1 px-4 text-sm'>Pricing</span>
